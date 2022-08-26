@@ -1,5 +1,6 @@
 # organic-network
 
+![projectimage](network.png)
 ## overall aims
 1. Interactive network map depicting relationship between most commonly used organic reactions.
 2. Overlay 'chemical' nodes showing which reagents are associated with which reactions.
