@@ -7,3 +7,6 @@
 3. Each node (reaction mechanism) serves as a revision resource.
 4. Each node contains an Anki tag so that card scheduling can be done from Obsidian.
 5. Scrape organic-chemistry.org to create network.
+
+## notes
+So far this has primarily been a scraping project. Scraping bot uses requests and `beautifulsoup4` as no active JavaScript present.
